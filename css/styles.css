@@ -299,11 +299,12 @@ flex-basis: calc((100% - 3 * 24px) / 4);
   flex-direction: column;
   align-items: flex-start;
   padding-bottom: 100px;
-  gap: 16px;
-  color: var (--footer-text);
 }
 .footer-logo {
   color: var(--footerlogo);
+}
+.footer-link {
+  padding: 16px 0px;
 }
 .footer-text {
   line-height: 1.5;
