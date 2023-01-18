@@ -240,9 +240,6 @@ flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 /*What are we do*/
-.offer.section {
-  padding-bottom: 120px;
-}
 .offer-container > h2,
 .ourteam-container > h2 {
   font-size: 36px;
